@@ -1,0 +1,48 @@
+
+
+body {
+    background-color: #2b2c3c;
+    color: #fff;
+}
+
+
+canvas {
+    border: 2px solid #383840;
+    border-bottom: transparent;
+    background: #242434;
+    margin: 0 auto;
+    margin-top: 30px;
+    display: block;
+}
+
+#pauseMessage, #gameOverMessage, #winMessage {
+position: absolute;
+top: 35%;
+left: 50%;
+transform: translate(-50%, -50%);
+background-color: rgba(43, 46, 63, 0.791);
+color: white;
+padding: 50px; 
+font-size: 24px;
+border-radius: 10px;
+text-align: center;
+font-family: monospace;
+display: none;
+}
+
+#instruccion {
+    position: absolute;
+    margin-top: 450px;
+    justify-content: center; 
+    font-family: monospace;
+    text-align: center;
+    padding: 50px; 
+    font-size: 16px;
+    color: white;
+}
+
+section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
