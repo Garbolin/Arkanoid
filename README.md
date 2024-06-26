@@ -17,4 +17,4 @@ This is my first project, inspired by the youtuber and streamer MiduDev🎥, who
 <br>
 
 🖼️ Icon:
-- [Freepik](https://www.freepik.es/icono/pared-ladrillo_78114#fromView=search&page=1&position=19&uuid=e1a7eff3-96ab-43c1-8c62-9bca04e5f1f3)
+- <a href="https://www.freepik.es/icono/pared-ladrillo_78114#fromView=search&page=1&position=20&uuid=df764b6f-1739-49bc-9ba2-8d504e4717ce">Icon from Freepik</a>
