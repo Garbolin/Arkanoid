@@ -1,6 +1,6 @@
 # Arkanoid 🎮🧱
 
-## 🔗Link to the game: <br> [profound-cranachan-1c8407.netlify.app](https://profound-cranachan-1c8407.netlify.app/)
+## 🔗Link to [Arkanoid](https://profound-cranachan-1c8407.netlify.app/)
 <div display="center">
   
   ![471shots_so](https://github.com/Garbolin/Arkanoid/assets/134524103/66491843-77f1-4880-9e6d-e7940389d5dc)
